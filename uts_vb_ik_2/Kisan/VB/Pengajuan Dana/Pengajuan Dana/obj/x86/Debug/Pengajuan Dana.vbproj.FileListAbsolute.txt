@@ -1,0 +1,12 @@
+D:\Kisan\VB\Pengajuan Dana\Pengajuan Dana\obj\x86\Debug\Pengajuan_Dana.Form1.resources
+D:\Kisan\VB\Pengajuan Dana\Pengajuan Dana\obj\x86\Debug\Pengajuan_Dana.Resources.resources
+D:\Kisan\VB\Pengajuan Dana\Pengajuan Dana\obj\x86\Debug\Pengajuan Dana.vbproj.GenerateResource.Cache
+D:\Kisan\VB\Pengajuan Dana\Pengajuan Dana\bin\Debug\Pengajuan Dana.exe
+D:\Kisan\VB\Pengajuan Dana\Pengajuan Dana\bin\Debug\Pengajuan Dana.pdb
+D:\Kisan\VB\Pengajuan Dana\Pengajuan Dana\bin\Debug\Pengajuan Dana.xml
+D:\Kisan\VB\Pengajuan Dana\Pengajuan Dana\obj\x86\Debug\Pengajuan Dana.exe
+D:\Kisan\VB\Pengajuan Dana\Pengajuan Dana\obj\x86\Debug\Pengajuan Dana.xml
+D:\Kisan\VB\Pengajuan Dana\Pengajuan Dana\obj\x86\Debug\Pengajuan Dana.pdb
+D:\UTS_VB_IK_2\Kisan\VB\Pengajuan Dana\Pengajuan Dana\obj\x86\Debug\Pengajuan Dana.exe
+D:\UTS_VB_IK_2\Kisan\VB\Pengajuan Dana\Pengajuan Dana\obj\x86\Debug\Pengajuan Dana.xml
+D:\UTS_VB_IK_2\Kisan\VB\Pengajuan Dana\Pengajuan Dana\obj\x86\Debug\Pengajuan Dana.pdb

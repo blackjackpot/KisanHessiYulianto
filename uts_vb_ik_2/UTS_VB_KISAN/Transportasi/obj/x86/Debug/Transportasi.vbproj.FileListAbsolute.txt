@@ -1,0 +1,13 @@
+C:\Users\A11\AppData\Local\Temporary Projects\Transportasi\obj\x86\Debug\Transportasi.Form1.resources
+C:\Users\A11\AppData\Local\Temporary Projects\Transportasi\obj\x86\Debug\Transportasi.Resources.resources
+C:\Users\A11\AppData\Local\Temporary Projects\Transportasi\obj\x86\Debug\Transportasi.vbproj.GenerateResource.Cache
+C:\Users\A11\AppData\Local\Temporary Projects\Transportasi\obj\x86\Debug\Transportasi.TPenyewaan.resources
+D:\UTS_VB_IK_2\Transportasi\Transportasi\obj\x86\Debug\Transportasi.Resources.resources
+D:\UTS_VB_IK_2\Transportasi\Transportasi\obj\x86\Debug\Transportasi.TPenyewaan.resources
+D:\UTS_VB_IK_2\Transportasi\Transportasi\obj\x86\Debug\Transportasi.vbproj.GenerateResource.Cache
+D:\UTS_VB_IK_2\Transportasi\Transportasi\bin\Debug\Transportasi.exe
+D:\UTS_VB_IK_2\Transportasi\Transportasi\bin\Debug\Transportasi.pdb
+D:\UTS_VB_IK_2\Transportasi\Transportasi\bin\Debug\Transportasi.xml
+D:\UTS_VB_IK_2\Transportasi\Transportasi\obj\x86\Debug\Transportasi.exe
+D:\UTS_VB_IK_2\Transportasi\Transportasi\obj\x86\Debug\Transportasi.xml
+D:\UTS_VB_IK_2\Transportasi\Transportasi\obj\x86\Debug\Transportasi.pdb
